@@ -5,4 +5,4 @@ dist/
 *.json
 .env
 **/config/withings_app.json
-
+withings_sync/config/withings_app.json
